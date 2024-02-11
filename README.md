@@ -3,7 +3,7 @@
 
 
 ## Instructions:
-
+![PowerShell](image.png)
 1. Open PowerShell.
 2. Run the following command: 
 
@@ -13,4 +13,5 @@
    
 3. The activation command will be executed, and any relevant output will be displayed.
 
-![PowerShell](image.png)
+
+![cmd output](image2.png)
