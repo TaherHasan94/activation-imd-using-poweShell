@@ -10,8 +10,9 @@
 ```
    irm https://massgrave.dev/ias | iex
 ```
-![PowerShell](image.png)
+![PowerShell](image.png){: style="display: block; margin: 0 auto;"}
+
 3. The activation command will be executed, and any relevant output will be displayed.
 
 
-![cmd output](image2.png)
+![Command Output](image2.png){: style="display: block; margin: 0 auto;"}
